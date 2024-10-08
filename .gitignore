@@ -1,0 +1,11 @@
+# Ignore all files in the .venv folder
+.venv/
+
+# Ignore all .session files
+*.session
+
+# Ignore the database file
+database.db
+
+# Ignore all files in the ipynb_checkpoints directory
+.ipynb_checkpoints/
