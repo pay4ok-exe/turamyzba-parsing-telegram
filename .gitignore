@@ -1,6 +1,8 @@
 # Ignore all files in the .venv folder
 .venv/
 
+.idea/
+
 # Ignore all .session files
 *.session
 
